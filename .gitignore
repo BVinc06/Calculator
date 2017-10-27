@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+Calculator/Calculator.xcodeproj/xcuserdata/vinc.xcuserdatad/xcschemes/xcschememanagement.plist
+Addition/Addition.xcodeproj/project.pbxproj
+*.pbxproj
+Calculator/Calculator/main.c
+Calculator/Calculator.xcodeproj/xcuserdata/vinc.xcuserdatad/xcschemes/xcschememanagement.plist
+Calculator/Calculator.xcodeproj/xcuserdata/vinc.xcuserdatad/xcschemes/xcschememanagement.plist
